@@ -1,0 +1,154 @@
+.I{
+    background-color:powderblue;
+    position:fixed;
+    float: center;
+    padding-top: 0%;
+}
+.A img{
+    height: 120px;
+    width: 120px;
+    float:left;
+    margin-left: 10px;
+    border-radius: 25px;
+}
+
+.A h1{
+    color: darkblue;
+    font-weight: bolder;
+    font-size:50px;
+    padding-top:20px;
+    font-style:oblique;
+
+}
+
+.B{
+    text-align: right;
+    word-spacing: 190px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.B a{
+    color:darkblue;
+    text-decoration: none;
+    font-style: oblique;
+    font-weight: bolder;
+    font-size: larger;
+}
+
+.B a:hover{
+    color: black;
+    text-decoration: underline;
+}
+
+.B a:active{
+    background-color: white;
+}
+
+
+.C{
+    background-color: black;
+}
+
+.C img{
+    float: right;
+    margin-right: 20px; 
+    width: 400px;
+    height: 280px;
+    border-radius: 50px;
+}
+
+
+.C p{
+    font-size:50px;
+    font-weight:bolder;
+    font-style: oblique;
+    text-align: center;
+    color: white;
+}
+
+.D h1{
+    color:darkblue;
+    font-size: xx-large;
+    text-align:center;
+    font-weight:bolder;
+    font-style:oblique;
+}
+
+.D img{
+    float: left;
+    width: 600px;
+    height: 370px;
+    padding-right: 10px;
+    padding-top: 10px;
+    border-radius: 50px;
+}
+
+.D p{
+    text-indent: 50px;
+    padding-top:20px;
+    text-align: justify;
+    font-style: oblique;
+    font-weight: bolder;
+    font-size: larger;
+}
+
+.E h1{
+    color:darkblue;
+    font-size: xx-large;
+    text-align:center;
+    font-weight:bolder;
+    font-style:oblique;
+}
+
+.E table tr td img{
+    height: 300px;
+    width: 630px;
+    border-radius: 50px;
+}
+.F h1{
+    color:darkblue;
+    font-size: xx-large;
+    text-align:center;
+    font-weight:bolder;
+    font-style:oblique;
+}
+.F img{
+    height: 210px;
+    width: 420px;
+}
+
+.G h1{
+    color:darkblue;
+    font-size: xx-large;
+    text-align:center;
+    font-weight:bolder;
+    font-style:oblique;
+}
+
+.G p{
+    text-indent: 50px;
+    text-align: justify;
+    font-style: oblique;
+    font-weight: bold;
+    font-size: larger;
+}
+
+.H h1{
+    color:darkblue;
+    font-size: xx-large;
+    text-align:center;
+    font-weight:bolder;
+    font-style:oblique;
+}
+
+.H p{
+    font-size: larger;
+    text-align:center;
+    font-weight:bolder;
+    font-style:oblique;
+}
+
+#email{
+    width: 400px;
+}
