@@ -1,8 +1,13 @@
+*{
+    margin:0;
+    padding:0;
+}
 .I{
     background-color:powderblue;
     position:fixed;
     float: center;
     padding-top: 0%;
+    width: 100vw;
 }
 .A img{
     height: 120px;
